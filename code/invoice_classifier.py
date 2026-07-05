@@ -5,9 +5,8 @@ Description:
     A Zoho Books Custom Function that automatically classifies invoices
     into customer tiers based on the invoice total.
 
-    This is not a high level code however i just creted this to understand and revise Python and instead of writing the code on VS code or Pycharm
-    I just used Zoho Books so that I can know what are all the limitations and scenarios that I can use on a third-party application.
-    Please check out this code if you like.
+    This project was built to strengthen my understanding of Python, workflow automation, 
+    and Zoho Books Custom Functions by implementing a practical business use case.
 
 Trigger:
     Invoice Status → Sent
